@@ -1,4 +1,4 @@
-# Bike Sales Dashboard (Data Analytics)
+# Bike Sales Dashboard (Data Analytics) Using MS Excel
 
 ## Overview
 
