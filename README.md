@@ -46,9 +46,7 @@ The data used in this project is hypothetical and designed for educational purpo
 3. The average income of bike purchasers is 56,000.  
 
 ## Screenshots
-
-
-
+https://github.com/Menaka08/Bike-Sales-Dashboard/blob/main/Screenshot%202024-12-06%20105642.jpg?raw=true
 ## Project Goals
 
 - To showcase skills in data analytics using Microsoft Excel.  
